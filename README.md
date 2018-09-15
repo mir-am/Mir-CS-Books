@@ -12,6 +12,7 @@ Here is the list:<br />
 - Programming Languages: Desing and Implementation by Terrence W. Pratt and Marvin V. Zelkowitz
 - C++ in One Hour a Day (7th Edition) by Siddhartha Rao
 - The C++ Programming Language (4th Edition) by Bjarne Stroustrup
-- The Quick Python Book (2nd Edition) by Vernon L. Ceder 
+- The Quick Python Book (2nd Edition) by Vernon L. Ceder
+- Deep Learning with Python (1st Edition) by Francois Chollet 
 - Professional Assembly Language by Richard Blum 
 

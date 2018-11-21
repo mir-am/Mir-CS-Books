@@ -14,5 +14,5 @@ Here is the list:<br />
 - The C++ Programming Language (4th Edition) by Bjarne Stroustrup
 - The Quick Python Book (2nd Edition) by Vernon L. Ceder
 - Deep Learning with Python (1st Edition) by Francois Chollet 
-- Professional Assembly Language by Richard Blum 
-
+- Professional Assembly Language by Richard Blum
+- The Complete Software Developer's Career Guide by John Sonmez
